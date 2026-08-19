@@ -3,7 +3,7 @@
   <br/>
   <h3>Full-Stack Web Developer · SaaS Builder · Hackathon Competitor</h3>
   <p>
-    <a href="mailto:sheriflotfy22@hotmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+    <a href="mailto:sheriflotfy.eng@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
     <a href="https://linkedin.com/in/sizif"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://sizif.wearemasons.com"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   </p>
@@ -140,5 +140,5 @@ B.Sc. Computer Science graduate from **Ain Shams University** (2026), currently 
 ---
 
 <div align="center">
-  <sub>Open to full-time roles & collaborations · <a href="mailto:sheriflotfy22@hotmail.com">sheriflotfy22@hotmail.com</a></sub>
+  <sub>Open to full-time roles & collaborations · <a href="mailto:sheriflotfy.eng@gmail.com">sheriflotfy.eng@gmail.com</a></sub>
 </div>
